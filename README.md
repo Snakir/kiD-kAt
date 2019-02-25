@@ -1,2 +1,2 @@
 # kiD-kAt
-Bot de música exclusivo - NorthTeam
+  Bot de música exclusivo - Snakir
