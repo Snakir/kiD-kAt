@@ -1,10 +1,10 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "kiD kAt",
+  "description": "Bot de música exclusivo - kiD kAt",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "bot.py",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node bot.py"
   },
   "dependencies": {
     "discord.js": "11.1.0",
